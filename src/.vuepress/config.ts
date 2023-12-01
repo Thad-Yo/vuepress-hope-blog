@@ -12,7 +12,7 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "博客演示",
+      title: "烟花会谢 笙歌会停",
       description: "vuepress-theme-hope 的博客演示",
     },
   },

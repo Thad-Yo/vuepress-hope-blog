@@ -4,9 +4,9 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: The name of your blog
+heroText: 烟花会谢 笙歌会停
 tagline: You can put your slogan here
-heroFullScreen: true
+heroFullScreen: false
 projects:
   - icon: project
     name: project name

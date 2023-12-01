@@ -9,7 +9,7 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "Thad Yo",
     url: "https://mrhope.site",
   },
 
@@ -95,7 +95,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "资深重启专家",
         intro: "/zh/intro.html",
       },
 
