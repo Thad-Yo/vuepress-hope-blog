@@ -10,7 +10,7 @@ export default hopeTheme({
 
   author: {
     name: "Thad Yo",
-    url: "https://mrhope.site",
+    url: "https://blog.thadyo.top",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -118,8 +118,30 @@ export default hopeTheme({
 
     comment: {
       // You should generate and use your own comment service
-      provider: "Waline",
-      serverURL: "https://waline-comment.vuejs.press",
+      // provider: "Waline",
+      // serverURL: "https://waline-comment.vuejs.press",
+      /*
+      <script src="https://giscus.app/client.js"
+              data-repo="Thad-Yo/vuepress-hope-blog"
+              data-repo-id="R_kgDOJxMvGw"
+              data-category="Announcements"
+              data-category-id="DIC_kwDOJxMvG84CbauX"
+              data-mapping="pathname"
+              data-strict="0"
+              data-reactions-enabled="1"
+              data-emit-metadata="0"
+              data-input-position="bottom"
+              data-theme="preferred_color_scheme"
+              data-lang="zh-CN"
+              crossorigin="anonymous"
+              async>
+      </script>
+      */
+      provider: "Giscus",
+      repo: "Thad-Yo/vuepress-hope-blog",
+      repoId: "R_kgDOJxMvGw",
+      category: "Announcements",
+      categoryId: "DIC_kwDOJxMvG84CbauX"
     },
 
     // all features are enabled for demo, only preserve features you need here
