@@ -9,11 +9,13 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Thad Yo",
+    name: "J.F.Gaufrid",
     url: "https://blog.thadyo.top",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  // iconAssets: "fontawesome-with-brands",
+  // iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
+  iconAssets: "//at.alicdn.com/t/c/font_4359564_a6o8l278nm.css",
 
   logo: "/logo.svg",
 
@@ -71,7 +73,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "Senior Restart Engineer",
         intro: "/intro.html",
       },
 

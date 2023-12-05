@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-theme-hope-template",
+  "name": "blog",
   "version": "2.0.0",
-  "description": "A project of vuepress-theme-hope",
+  "description": "个人博客",
   "license": "MIT",
   "type": "module",
   "scripts": {

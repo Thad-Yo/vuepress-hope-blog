@@ -4,8 +4,8 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: 烟花会谢 笙歌会停
-tagline: You can put your slogan here
+heroText: 𝓜𝓻. 𝓗𝓸𝓹𝓮 
+tagline: Just Do IT 
 heroFullScreen: false
 projects:
   - icon: project

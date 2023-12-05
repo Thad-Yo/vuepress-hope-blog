@@ -1,12 +1,12 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: bloghome
 title: 博客主页
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: J.F.Gaufrid
 heroFullScreen: false
-tagline: 你可以在这里放置你的口号与标语
+tagline: Just Do IT
 projects:
   - icon: project
     name: 项目名称
