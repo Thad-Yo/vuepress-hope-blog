@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/cover3.jpg
-icon: blogk8s 
+icon: bloglinux 
 date: 2023-12-05
 category:
   - Linux
